@@ -1,3 +1,7 @@
+## Covid-19-detection
+
+**Objective** : To correctly label a person as Covid+ based on their symptomps and demographics.
+
 * **Data collection** : Dataset available from Kaggle entitled
                         “COVID-19 Symptoms and Presence”. This dataset has 20 attributes that are possible
                         factors related to acquiring the virus, and 1 class attribute that determines the presence of
